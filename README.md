@@ -1,4 +1,4 @@
-# Olá, Eu sou o Bruno 👋
+# Olá, Eu sou o Bruno! 👋
 
 Estudante de game designer pela UNEB e apaixonado por tecnologias e programação as vezes desenvolvo umas coisas ai que não faz muito sentido.
 
