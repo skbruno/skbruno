@@ -1,10 +1,10 @@
-# Olá, Eu sou o Bruno :wave
+# Olá, Eu sou o Bruno 👋
 
-Estudante de game designer pela UNEB e apaixonado por tecnologias, e desenvolvo umas coisas ai que ninguem liga.
+Estudante de game designer pela UNEB e apaixonado por tecnologias e programação as vezes desenvolvo umas coisas ai que não faz muito sentido.
 
 
 
-- ⚡ Aprimorando em HTML,CSS3,Javascript 
+- ⚡ Aprimorando em HTML, CSS3 e Javascript 
   
 --------------------------
 
