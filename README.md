@@ -8,7 +8,7 @@ Estudante de game designer pela UNEB e apaixonado por tecnologias e programaçã
   
 --------------------------
 
-### Skill
+###  🌱 Skill
 
 ![C-sharp](https://img.shields.io/badge/c%23%20-%232391.svg?&style=for-the-badge&logo=c-sharp&logoColor=grey")
 ![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white")
@@ -18,7 +18,7 @@ Estudante de game designer pela UNEB e apaixonado por tecnologias e programaçã
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-### Contato
+### 📫 Contato
 
  <a href="mailto:bruno.rodriguesc9@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></img></a>
