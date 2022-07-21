@@ -4,7 +4,7 @@ Estudante de game designer pela UNEB e apaixonado por tecnologias e programaçã
 
 
 
-- ⚡ Aprimorando em HTML, CSS3 e Javascript 
+- ⚡ Aprendendo Php e MySql
   
 --------------------------
 
