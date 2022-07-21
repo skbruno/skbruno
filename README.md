@@ -4,7 +4,7 @@ Estudante de game designer pela UNEB e apaixonado por tecnologias e programaçã
 
 
 
-- ⚡ Aprendendo Php e MySql
+- ⚡ Aprendendo PHP e MySql
   
 --------------------------
 
