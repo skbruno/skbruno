@@ -1,6 +1,6 @@
 # Olá, Eu sou o Bruno! 👋
 
-Estudante de game designer pela UNEB e apaixonado por tecnologias e programação as vezes desenvolvo umas coisas ai que não faz muito sentido.
+Estudante de Sistema da informação pela UNEB e apaixonado por tecnologias e programação, faço uns jogos e coisas que não faz muito sentido ai.
 
 
 
