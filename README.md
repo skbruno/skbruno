@@ -4,7 +4,7 @@ Estudante de Sistema da informação pela UNEB e apaixonado por tecnologias e pr
 
 
 
-- ⚡ Aprendendo PHP e MySql
+- ⚡ Aprendendo Javascript
   
 --------------------------
 
