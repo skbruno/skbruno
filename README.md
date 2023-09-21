@@ -11,6 +11,7 @@ Estudante de Sistema da informação pela UNEB e apaixonado por tecnologias e pr
 ###  🌱 Skill
 
 ![C-sharp](https://img.shields.io/badge/c%23%20-%232391.svg?&style=for-the-badge&logo=c-sharp&logoColor=grey")
+![C](https://img.shields.io/badge/c-00000F?style=for-the-badge&logo=mysql&logoColor=white")
 ![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white")
 ![GitHub](https://img.shields.io/badge/GitHub-231E27?style=for-the-badge&logo=github&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
