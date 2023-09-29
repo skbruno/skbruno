@@ -5,6 +5,8 @@ Estudante de Sistema da informação pela UNEB e apaixonado por tecnologias e pr
 
 
 - ⚡ Aprendendo
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skbruno&layout=compact&langs_count=6&theme=tokyonight"/>
   
 --------------------------
 
