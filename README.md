@@ -2,7 +2,7 @@
 
 Estudante de Sistema da informação pela UNEB.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/skbruno=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skbruno&layout=compact)
   
 --------------------------
 
