@@ -2,7 +2,7 @@
 
 Estudante de Sistema da informação pela UNEB.
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=skbruno&theme=blue-green)
+![Stats](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skbruno&layout=compact))
   
 --------------------------
 
