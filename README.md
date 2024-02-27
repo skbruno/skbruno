@@ -2,7 +2,7 @@
 
 Estudante de Sistema da informação pela UNEB.
 
-<img height="180em" src=https://img.shields.io/website-up-down-green-red/http/monip.org.svg/>
+<img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username={skbruno}&theme=blue-green/>
   
 --------------------------
 
