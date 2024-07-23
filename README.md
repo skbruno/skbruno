@@ -1,7 +1,7 @@
 <h2 align="left">Olá, Eu sou o Bruno! 👋</h2>
 Estudante de Sistema da informação pela UNEB.
 
-### Stats
+### 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skbruno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
