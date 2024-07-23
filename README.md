@@ -1,13 +1,13 @@
 <h2 align="left">Olá, Eu sou o Bruno! 👋</h2>
 Estudante de Sistema da informação pela UNEB.
 
-###
+### Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skbruno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### ⚡ Skill
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -37,7 +37,7 @@ Estudante de Sistema da informação pela UNEB.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-###
+### 📫 Contato
 
 <div align="center">
   <a href="https://www.instagram.com/skybrunoo" target="_blank">
